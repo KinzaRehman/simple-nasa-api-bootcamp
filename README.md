@@ -1,6 +1,8 @@
 # Simple NASA API
 Goal: Enable your user to enter a date and return the picture/video of the day from NASA's API
-![Live](https://kinzarehman.github.io/simple-nasa-api-bootcamp/)
+
+🌐 [Live Demo](https://kinzarehman.github.io/simple-nasa-api-bootcamp/)
+
 ## View
 <p align="center">
   <img src="img/Landing.png" alt="Weather App Landing Page" width="100%" height="400">
